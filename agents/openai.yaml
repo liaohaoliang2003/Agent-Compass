@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Compass"
+  short_description: "初始化项目级 Agent 规则与工具边界"
+  default_prompt: "Use $agent-compass 为这个项目建立 Agent guideline、工具 policy 和 AGENTS.md 入口规则。"
